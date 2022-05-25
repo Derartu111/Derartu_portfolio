@@ -11,9 +11,8 @@ Model construction :The model where developed from five machine learning classif
  #Corpus Analysis:
  
  Figure 1. Class distribution of fake and true news corpus.
- ![alt text](image.jpg)
- ![image](https://user-images.githubusercontent.com/106262395/170339730-bed57b0f-d647-4797-ab7a-a1aca26cd28b.png)
- 
+![image](https://user-images.githubusercontent.com/106262395/170352796-aef204ba-18e7-46f7-8268-d572ecf3926b.png)
+
 ![image](https://user-images.githubusercontent.com/106262395/170341020-90012256-b1f2-499b-ab2e-cbf6dea6b0ba.png)
 
  Figure 2. Word cloud for frequency of tokens of true news (a) and fake news (b).
