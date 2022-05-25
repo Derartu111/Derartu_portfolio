@@ -1,4 +1,4 @@
-# FAKE NEWS DETECTION
+# AFAAN OROMOO FAKE NEWS DETECTION
 My work Exprience
 [Project1 : Afaan Oromo Fake news Detectioon using ensemble learning approaches: Project Overview](https://www.example.com)
 Data collection(using facepager tool)
