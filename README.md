@@ -12,11 +12,8 @@ Model construction :The model where developed from five machine learning classif
  
  Figure 1. Class distribution of fake and true news corpus.
 ![image](https://user-images.githubusercontent.com/106262395/170352796-aef204ba-18e7-46f7-8268-d572ecf3926b.png)
-
-![image](https://user-images.githubusercontent.com/106262395/170341020-90012256-b1f2-499b-ab2e-cbf6dea6b0ba.png)
-
  Figure 2. Word cloud for frequency of tokens of true news (a) and fake news (b).
- ![image](https://user-images.githubusercontent.com/106262395/170345377-52dfc4c8-a9d5-42c9-902a-8558a67e4c83.png)
+ ![image](https://user-images.githubusercontent.com/106262395/170353013-04a8fc8b-ee73-4320-9866-0acd62e01d19.png)
  Figure3. ROC Curve for Uni+TF_IDF
  ![image](https://user-images.githubusercontent.com/106262395/170344502-18051c03-eca6-4c94-9d8f-eac45c582fab.png)
  Figure4. ROC Curve for Uni+Bi+TF_IDF
