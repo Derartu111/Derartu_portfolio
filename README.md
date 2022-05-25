@@ -8,5 +8,6 @@ Feature Enginering(extracting features like TF-IDF, UNI+BI, UNI+TRI and Linguist
 Data analysing.
 Model construction :The model where developed from five machine learning classifiers and this classifiers combined using stacking and voting ensemble approaches 
 # EDA
- Corpus Analysis: anlysing lingusitic features like
+ Corpus Analysis:
+ Figure 1. Class distribution of fake and true news corpus.
  ![image](https://user-images.githubusercontent.com/106262395/170339730-bed57b0f-d647-4797-ab7a-a1aca26cd28b.png)
