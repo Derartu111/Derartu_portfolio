@@ -15,4 +15,4 @@ Model construction :The model where developed from five machine learning classif
  
 ![image](https://user-images.githubusercontent.com/106262395/170341020-90012256-b1f2-499b-ab2e-cbf6dea6b0ba.png)
 
- Figure 12. Word cloud for frequency of tokens of true news (a) and fake news (b).
+ Figure 2. Word cloud for frequency of tokens of true news (a) and fake news (b).
