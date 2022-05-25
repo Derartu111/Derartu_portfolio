@@ -19,5 +19,5 @@ Model construction :The model where developed from five machine learning classif
  Figure4. ROC Curve for Uni+Bi+TF_IDF
 ![image](https://user-images.githubusercontent.com/106262395/170354322-ce244988-02b3-4406-8e94-7ad6cf804356.png)
 Figure5. ROC Curve for Uni+TRI+TF_IDF
-![image](https://user-images.githubusercontent.com/106262395/170354557-3839e91d-f2d6-4f43-9600-0063b45d7cca.png)
+![image](https://user-images.githubusercontent.com/106262395/170354761-a89e4906-df1d-415f-aff2-604978f82cc1.png)
 Figure6. Linguistic feautures
